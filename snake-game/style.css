@@ -1,0 +1,11 @@
+body{
+    overflow: hidden;
+    text-align: center;
+}
+#game-space{
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border: black solid 1px;
+
+}
